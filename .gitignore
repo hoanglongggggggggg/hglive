@@ -1,0 +1,21 @@
+# cấu hình thật (có cookie / token)
+hglive.config.json
+.nordvpn_token
+.env
+cookies*.txt
+*.cookie
+
+# đầu ra
+recordings/
+dist/
+build/
+*.spec
+
+# binary tải về
+wireproxy
+wireproxy.exe
+
+__pycache__/
+*.pyc
+.venv/
+venv/
